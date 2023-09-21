@@ -24,9 +24,9 @@
 
     <dependencies>
 	    <dependency>
-	            <groupId>org.springframework.boot</groupId>
-	            <artifactId>spring-boot</artifactId>
-	            <version>1.5.22.RELEASE</version>
+	            <groupId>com.thoughtworks.xstream</groupId>
+	            <artifactId>xstream</artifactId>
+	            <version>1.4.19</version>
 	    </dependency>
     </dependencies>
 	

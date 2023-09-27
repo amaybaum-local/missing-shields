@@ -24,9 +24,9 @@
 
     <dependencies>
 	<dependency>
-	    <groupId>org.springframework.amqp</groupId>
-	    <artifactId>spring-rabbit</artifactId>
-	    <version>1.0.0.RELEASE</version>
+	    <groupId>org.jenkins-ci.main</groupId>
+	    <artifactId>jenkins-core</artifactId>
+	    <version>1.425</version>
 	</dependency>
     </dependencies>
 	
